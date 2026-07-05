@@ -1,17 +1,14 @@
-# widget
+# A product Carousel Widget
 
-A new Flutter project.
+A widget that displayes a product carousel, seen in real word systems like Airbnb, Amazon etc.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone this project
+`git clone https://github.com/Goketech/widget-presentation.git`
 
-A few resources to get you started if this is your first Flutter project:
+Navigate to project folder
+`cd widget-presentation`
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run the project
+`flutter run`
